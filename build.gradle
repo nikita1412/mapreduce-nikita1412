@@ -1,0 +1,15 @@
+apply plugin: 'idea'
+apply plugin: 'application'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.googlecode.json-simple:json-simple:1.1.1'
+    compile files("${System.properties['java.home']}/../lib/tools.jar")
+}
+
+mainClassName='RunTests'

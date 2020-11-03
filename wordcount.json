@@ -1,0 +1,7 @@
+{
+  "workers": 3,
+  "inputfile": "input/input.txt",
+  "intermediatedir": "intermediate",
+  "outputdir": "docs/output/wordcount",
+  "baseport": 5000
+}

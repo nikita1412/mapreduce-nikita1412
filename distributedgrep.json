@@ -1,0 +1,7 @@
+{
+  "workers": 3,
+  "inputfile": "input/input2.txt",
+  "intermediatedir": "intermediate",
+  "outputdir": "docs/output/distributedgrep",
+  "baseport": 5000
+}

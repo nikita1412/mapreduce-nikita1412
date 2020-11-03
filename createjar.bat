@@ -1,0 +1,1 @@
+gradle.bat build & gradle.bat run & python test/startTests.py & pause

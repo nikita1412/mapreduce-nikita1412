@@ -1,0 +1,5 @@
+out/production/mapreduce/*.class
+taskobject.ser
+intermediate/*.txt
+test/__pycache__/
+output/*.txt
