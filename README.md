@@ -43,13 +43,6 @@ The execution is started with the creation of a master process. The master refer
 The second phase is then started, and workers are created and initialised for the reduce phase. The same process described above is followed again, with the workers acting as reducers now. The intermediate files are considered as the input files for this phase, and the output files are the final output files.
 
 
-### Team Members
-
- - Nikita Agarwal
- - Ajinkya Ghadge
- - Varun Prasad
-
-Note: All of our submissions are identical as we have worked together.
 
 License
 ----
